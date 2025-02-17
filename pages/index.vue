@@ -1,5 +1,9 @@
 <template>
-   <section class="px-28 py-4 flex justify-center flex-col align-center ">
+
+    <section class="overflow-x-hidden flex flex-col justifyu-center">
+
+
+        <section class="px-28 py-4 flex justify-center flex-col align-center overflow-x-hidden  ">
     <header class="flex justify-between">
         <div>
             <img src="/images/logo.png" alt="">
@@ -12,7 +16,7 @@
             <li class="p-1">Pricing</li>
         </ul>
         <div class="">
-            <button class="bg-[#007AFF] text-white rounded-xl px-3 py-1 ">Contact Us</button>
+            <button class="bg-[#007AFF] text-white rounded-xl px-4 py-2 ">Contact Us</button>
         </div>
     </header>
 
@@ -53,7 +57,7 @@
 
     
    </section>
-   <section class="mt-16 py-10 bg-[#0C111D] px-28 flex-col flex justify-center align-center  ">
+   <section class="mt-16 py-10 bg-[#0C111D] px-28 flex-col flex justify-center align-center overflow-x-hidden  ">
         <span class="text-white text-sm text-center align-center flex justify-center">Join 4,000+ companies already growing</span>
         <div class="flex gap-10 pt-7">
             <img src="/images/company1.png" alt="">
@@ -78,9 +82,9 @@
         </section>
 
 
-        <section class="flex mt-8 gap-24 items-center mb-4 jusitify-center align-center ">
+        <section class="flex mt-8 gap-24 items-center mb-4 jusitify-center align-center overflow-x-hidden ">
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
-              <div class="mt-2">
+              <div class="mt-4">
                 <img src="/images/featuredicon.png" alt="">
               </div>
 
@@ -96,7 +100,7 @@
             
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
-              <div class="mt-2">
+              <div class="mt-4">
                 <img src="/images/featuredicon.png" alt="">
               </div>
 
@@ -109,7 +113,7 @@
             
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
-              <div class="mt-2">
+              <div class="mt-4">
                 <img src="/images/featuredicon.png" alt="">
               </div>
 
@@ -124,7 +128,7 @@
        
 
     </section>
-    <section class="px-28 py-16 bg-[#F9FAFB] mt-16 flex gap-4 justify-between align-center">
+    <section class="px-28 py-16 bg-[#F9FAFB] mt-16 flex gap-4 justify-between align-center overflow-x-hidden">
             <div class=" align-center items-center mt-[200px] ">
                 <div class="">
                 <img src="/images/Stars.png" alt="">
@@ -144,8 +148,8 @@
             
         </section>
 
-        <section class="bg-[#0C111D] flex flex-col justify-center text-white h-[400px]  items-center  ">
-<div class="flex justify-center items-center mb-6 ">
+        <section class="bg-[#0C111D] flex flex-col justify-center text-white h-[400px]  items-center overflow-x-hidden  ">
+<div class="flex justify-center items-center mb-6  ">
     <div class="w-10   ">
                 <img src="/images/logomark.png" alt="">
             </div>
@@ -161,7 +165,7 @@
 
         </section>
 
-        <section class="bg-[#0C111D] border-t border-t px-28 text-sm text-white flex justify-between pt-4 py-10 pt-8 items-center border border-l-0 ">
+        <section class="bg-[#0C111D] border-t border-t px-28 text-sm text-white flex justify-between pt-4 py-10 pt-8 items-center border border-l-0 overflow-x-hidden ">
             <div>
                <p>© 2077 Untitled UI. All rights reserved.</p>
 
@@ -175,6 +179,8 @@
                 </ul>
 
         </section>
+    </section>
+  
 
    
 </template>
