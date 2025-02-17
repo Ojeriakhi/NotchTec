@@ -81,7 +81,7 @@
         <section class="flex mt-8 gap-24 items-center mb-4 jusitify-center align-center ">
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <img src="../public/images/featuredicon.png" alt="">
+                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
               </div>
 
               <h4 class="mt-6 text-[#101828]">Software Development</h4>
@@ -97,7 +97,7 @@
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <img src="../public/images/featuredicon.png" alt="">
+                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
               </div>
 
               <h4 class="mt-6 text-[#101828]">IT Supplies</h4>
@@ -110,7 +110,7 @@
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <img src="../public/images/featuredicon.png" alt="">
+                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
               </div>
 
               <h4 class="mt-6 text-[#101828]">IT Consultancy</h4>
