@@ -1,5 +1,5 @@
 <template>
-   <section class="px-28 py-4">
+   <section class="px-28 py-4 flex justify-center flex-col align-center ">
     <header class="flex justify-between">
         <div>
             <img src="../public/images/logo.png" alt="">
@@ -19,7 +19,7 @@
     <section class="mt-[100px] flex justify-between">
         <div>
             <h1 class="text-[#101828] text-6xl font-semibold">Empowering Businesses <br> with IT Solutions.</h1>
-            <p class="text-[#475467] mt-6">At NotchTec, we specialize in software  <br> development, IT supplies, and consultancy, <br> delivering tailored solutions that drive growth and <br>innovation.</p>
+            <p class="text-[#475467] mt-6">At   , we specialize in software  <br> development, IT supplies, and consultancy, <br> delivering tailored solutions that drive growth and <br>innovation.</p>
 
 
             <div class="mt-10">
@@ -53,7 +53,7 @@
 
     
    </section>
-   <section class="mt-16 py-10 bg-[#0C111D] px-28  ">
+   <section class="mt-16 py-10 bg-[#0C111D] px-28 flex-col flex justify-center align-center  ">
         <span class="text-white text-sm text-center align-center flex justify-center">Join 4,000+ companies already growing</span>
         <div class="flex gap-10 pt-7">
             <img src="../public/images/company1.png" alt="">
@@ -77,7 +77,8 @@
             </p>
         </section>
 
-        <section class="flex mt-8 gap-10 mb-4 ">
+
+        <section class="flex mt-8 gap-24 items-center mb-4 jusitify-center align-center ">
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
                 <img src="../public/images/featuredicon.png" alt="">
@@ -123,7 +124,7 @@
        
 
     </section>
-    <section class="px-28 py-16 bg-[#F9FAFB] mt-16 flex gap-4 justify-between">
+    <section class="px-28 py-16 bg-[#F9FAFB] mt-16 flex gap-4 justify-between align-center">
             <div class=" align-center items-center mt-[200px] ">
                 <div class="">
                 <img src="../public/images/Stars.png" alt="">
@@ -143,19 +144,24 @@
             
         </section>
 
-        <section class="bg-[#0C111D] flex flex-col justify-center text-white h-[400px] text-center   ">
-
-            <div class="w-10 justify-center items-center ml-[742px] ">
+        <section class="bg-[#0C111D] flex flex-col justify-center text-white h-[400px]  items-center  ">
+<div class="flex justify-center items-center mb-6 ">
+    <div class="w-10   ">
                 <img src="../public/images/logomark.png" alt="">
             </div>
+</div>
+            
            
             <span class="text-xl">Let’s get started on something great</span>
             <span class="text-xs mt-2">Join over 4,000+ startups already growing with Untitled.</span>
+            <div class="mt-9">
+                <button class="bg-[#007AFF] text-white rounded-lg px-4 py-2 ">Contact Us</button>
+            </div>
 
 
         </section>
 
-        <section class="bg-[#0C111D] border-t border-t px-28 text-sm text-white flex justify-between pt-4 py-10 pt-4 items-center">
+        <section class="bg-[#0C111D] border-t border-t px-28 text-sm text-white flex justify-between pt-4 py-10 pt-8 items-center border border-l-0 ">
             <div>
                <p>© 2077 Untitled UI. All rights reserved.</p>
 
