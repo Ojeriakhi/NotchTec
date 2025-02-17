@@ -2,7 +2,7 @@
    <section class="px-28 py-4 flex justify-center flex-col align-center ">
     <header class="flex justify-between">
         <div>
-            <img src="../public/images/logo.png" alt="">
+            <img src="/images/logo.png" alt="">
         </div>
 
         <ul class="flex gap-6 text-[#475467]">
@@ -22,10 +22,10 @@
             <p class="text-[#475467] mt-6">At   , we specialize in software  <br> development, IT supplies, and consultancy, <br> delivering tailored solutions that drive growth and <br>innovation.</p>
 
 
-            <!-- <div class="mt-10">
-                <img src="../public/images/userreviews.png" alt="">
+            <div class="mt-10">
+                <img src="/images/userreviews.png" alt="">
 
-            </div> -->
+            </div>
         
         </div>
 
@@ -56,12 +56,12 @@
    <section class="mt-16 py-10 bg-[#0C111D] px-28 flex-col flex justify-center align-center  ">
         <span class="text-white text-sm text-center align-center flex justify-center">Join 4,000+ companies already growing</span>
         <div class="flex gap-10 pt-7">
-            <img src="../public/images/company1.png" alt="">
-            <img src="../public/images/company2.png" alt="">
-            <img src="../public/images/company3.png" alt="">
-            <img src="../public/images/company4.png" alt="">
-            <img src="../public/images/company5.png" alt="">
-            <img src="../public/images/company6.png" alt="">
+            <img src="/images/company1.png" alt="">
+            <img src="/images/company2.png" alt="">
+            <img src="/images/company3.png" alt="">
+            <img src="/images/company4.png" alt="">
+            <img src="/images/company5.png" alt="">
+            <img src="/images/company6.png" alt="">
 
         </div>
 
@@ -81,7 +81,7 @@
         <section class="flex mt-8 gap-24 items-center mb-4 jusitify-center align-center ">
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
+                <img src="/images/featuredicon.png" alt="">
               </div>
 
               <h4 class="mt-6 text-[#101828]">Software Development</h4>
@@ -97,7 +97,7 @@
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
+                <img src="/images/featuredicon.png" alt="">
               </div>
 
               <h4 class="mt-6 text-[#101828]">IT Supplies</h4>
@@ -110,7 +110,7 @@
 
             <div class="px-4 bg-[#F9FAFB] h-fit pb-4">
               <div class="mt-2">
-                <!-- <img src="../public/images/featuredicon.png" alt=""> -->
+                <img src="/images/featuredicon.png" alt="">
               </div>
 
               <h4 class="mt-6 text-[#101828]">IT Consultancy</h4>
@@ -127,19 +127,19 @@
     <section class="px-28 py-16 bg-[#F9FAFB] mt-16 flex gap-4 justify-between align-center">
             <div class=" align-center items-center mt-[200px] ">
                 <div class="">
-                <img src="../public/images/Stars.png" alt="">
+                <img src="/images/Stars.png" alt="">
                 </div>
             <p class="text-[#101828] text-3xl font-semibold mt-8">
                 Love the simplicity of the <br> service and the prompt <br> customer support. We <br> can’t imagine working <br> without it.
             </p>
             <div class="mt-16">
 
-                <img src="../public/images/Attribution.png" alt="">
+                <img src="/images/Attribution.png" alt="">
             </div>
             </div>
 
             <div class="">
-                <img src="../public/images/girlimg.png" alt="" class="h-[700px]">
+                <img src="/images/girlimg.png" alt="" class="h-[700px]">
             </div>
             
         </section>
@@ -147,7 +147,7 @@
         <section class="bg-[#0C111D] flex flex-col justify-center text-white h-[400px]  items-center  ">
 <div class="flex justify-center items-center mb-6 ">
     <div class="w-10   ">
-                <img src="../public/images/logomark.png" alt="">
+                <img src="/images/logomark.png" alt="">
             </div>
 </div>
             
