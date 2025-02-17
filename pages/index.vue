@@ -22,10 +22,10 @@
             <p class="text-[#475467] mt-6">At   , we specialize in software  <br> development, IT supplies, and consultancy, <br> delivering tailored solutions that drive growth and <br>innovation.</p>
 
 
-            <div class="mt-10">
+            <!-- <div class="mt-10">
                 <img src="../public/images/userreviews.png" alt="">
 
-            </div>
+            </div> -->
         
         </div>
 
