@@ -10,10 +10,10 @@
         </div>
 
         <ul class="flex gap-6 text-[#475467]">
-            <li class="p-1">Home</li>
-            <li class="p-1">Products</li>
-            <li class="p-1">Resources</li>
-            <li class="p-1">Pricing</li>
+            <li class="p-1"> <a href="">Home</a> </li>
+            <li class="p-1"> <a href=""> Products</a></li>
+            <li class="p-1"><a href="">Resources</a> </li>
+            <li class="p-1"><a href="">Pricing</a> </li>
         </ul>
         <div class="">
             <button class="bg-[#007AFF] text-white rounded-xl px-4 py-2 ">Contact Us</button>
