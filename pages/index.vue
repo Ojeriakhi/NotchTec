@@ -1,6 +1,6 @@
 <template>
 
-    <section class="overflow-x-hidden flex flex-col justifyu-center">
+    <section class="overflow-x-hidden flex flex-col justify-center align-center">
 
 
         <section class="px-28 py-4 flex justify-center flex-col align-center overflow-x-hidden  ">
